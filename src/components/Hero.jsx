@@ -1,6 +1,8 @@
 const Hero = () => {
     return (
-        <div>Hero</div>
+        <div className="relative h-dvh w-screen overflow-x-hidden">
+            <div id="video-frame"></div>
+        </div>
     )
 }
 
