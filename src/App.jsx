@@ -1,7 +1,9 @@
+import Hero from "./components/Hero.jsx"
+
 const App = () => {
     return (
-        <main>
-            <h1>Welcome to Vite React</h1>
+        <main >
+            <Hero />
         </main>
     )
 }
